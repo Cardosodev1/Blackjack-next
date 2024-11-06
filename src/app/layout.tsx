@@ -20,7 +20,7 @@ export default function RootLayout({  children }: { children: React.ReactNode })
             Powered by Deck of Cards API            
             <br/>            
             Desenvolvido por 
-            <a className='text-white' href="https://github.com/vinimarcili" target="_blank">Professor Vinícius Marcili</a>          
+            <a className='text-white' href="https://github.com/Cardosodev1" target="_blank">Guilherme Cardoso</a>          
           </footer>        
         </div>      
       </body>    
